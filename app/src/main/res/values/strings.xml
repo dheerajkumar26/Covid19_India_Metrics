@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Covid19</string>
+
+    <string-array name="states_list">
+        <item>All</item>
+        <item>Maharashtra</item>
+        <item>Tamil Nadu</item>
+        <item>Delhi</item>
+        <item>Gujarat</item>
+        <item>Uttar Pradesh</item>
+        <item>Rajasthan</item>
+        <item>West Bengal</item>
+        <item>Madhya Pradesh</item>
+        <item>Haryana</item>
+        <item>State Unassigned</item>
+        <item>Karnataka</item>
+        <item>Andhra Pradesh</item>
+        <item>Bihar</item>
+        <item>Telangana</item>
+        <item>Jammu and Kashmir</item>
+        <item>Assam</item>
+        <item>Odisha</item>
+        <item>Punjab</item>
+        <item>Kerala</item>
+        <item>Uttarakhand</item>
+        <item>Chhattisgarh</item>
+        <item>Jharkhand</item>
+        <item>Tripura</item>
+        <item>Ladakh</item>
+        <item>Goa</item>
+        <item>Himachal Pradesh</item>
+        <item>Manipur</item>
+        <item>Chandigarh</item>
+        <item>Puducherry</item>
+        <item>Nagaland</item>
+        <item>Mizoram</item>
+        <item>Arunachal Pradesh</item>
+        <item>Sikkim</item>
+        <item>Dadra and Nagar Haveli and Daman and Diu</item>
+        <item>Andaman and Nicobar Islands</item>
+        <item>Meghalaya</item>
+        <item>Lakshadweep</item>
+
+    </string-array>
+</resources>
